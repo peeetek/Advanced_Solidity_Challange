@@ -35,3 +35,4 @@ Interact with the KaseiCoin and KaseiCoinCrowdsale contracts using their respect
 
 ![complie1](Images/Evaluation_Results/Compile_KaseiCoin.png)
 ![Compile](Images/Evaluation_Results/Compile_KaseiCoinCrowdsale.png)
+![delployment](Images/Evaluation_Results/deployment.gif)
